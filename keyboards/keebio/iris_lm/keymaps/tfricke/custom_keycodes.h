@@ -4,6 +4,7 @@
 #define LALT_A LALT_T(KC_A)
 #define LSFT_A LSFT_T(KC_A)
 #define LCTL_D LCTL_T(KC_D)
+#define LSFT_ENT LSFT_T(KC_ENT)
 #define LGUI_F LGUI_T(KC_F)
 #define RGUI_J RGUI_T(KC_J)
 #define RCTL_K RCTL_T(KC_K)
